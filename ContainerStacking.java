@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class OrdenacionContenedores {
+public class ContainerStacking {
 
     public static int [][] llenarTabla(int [] peso, int [] pesoMax,int pesoMaxPermitido){
         int[][] tabla = new int[peso.length][pesoMaxPermitido+1];
