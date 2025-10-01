@@ -94,5 +94,5 @@ Número máximo de contenedores apilables: 4
  
 ## 👤 Autor
 
--Marcau Alonso Ulloa (@marcau04)
--Marcos Cámara Vicente
+- Marcau Alonso Ulloa (@marcau04)
+- Marcos Cámara Vicente
