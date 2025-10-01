@@ -31,7 +31,7 @@ javac ContainerStacking.java
 
 java ContainerStacking <fichero_entrada>
 
-bash'''
+'''bash
 <fichero_entrada> → Archivo .txt con la definición de los contenedores.
 
 '''
