@@ -24,9 +24,9 @@ El objetivo es encontrar la **mayor cantidad de contenedores apilables** cumplie
 ## 🚀 Compilación y ejecución
 
 ### Compilación
-´´´bash
+```bash
 javac ContainerStacking.java
-´´´
+```
 ### Ejecución
 
 ```bash
