@@ -29,15 +29,33 @@ javac ContainerStacking.java
 
 ### Ejecución
 
-java ContainerStacking <fichero_entrada>
-
 ```bash
+java ContainerStacking <fichero_entrada>
+```
 <fichero_entrada> → Archivo .txt con la definición de los contenedores.
 
-```
-
 Ejemplo:
-
 ```bash
 java OrdenacionContenedores contenedores.txt
+```
+
+---
+
+## 📂 Formato del archivo de entrada
+
+- El archivo debe tener el siguiente formato:
+
+  - La primera línea contiene el número total de contenedores.
+
+  - Cada línea siguiente contiene un par peso pesoMax para cada contenedor.
+
+- Ejemplo:
+
+```bash
+5
+10 20
+5 10
+7 25
+8 15
+12 30
 ```
