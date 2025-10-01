@@ -59,3 +59,40 @@ java OrdenacionContenedores contenedores.txt
 8 15
 12 30
 ```
+
+---
+
+## 📊 Salida del programa
+
+- El programa calcula:
+
+  - El número máximo de contenedores que se pueden apilar.
+
+  - La configuración óptima de apilamiento que cumple las restricciones.
+
+- Ejemplo de salida:
+
+```bash
+Número máximo de contenedores apilables: 4
+```
+
+---
+
+## ✨ Aprendizaje
+
+- Este proyecto me permitió:
+
+  - Aplicar técnicas de análisis y diseño de algoritmos.
+
+  - Implementar una variación del problema de la mochila en Java.
+
+  - Practicar el uso de estructuras de datos y ordenación para optimizar resultados.
+
+  - Modelar problemas reales (logística y apilamiento) mediante algoritmos clásicos.
+
+---
+ 
+## 👤 Autor
+
+-Marcau Alonso Ulloa (@marcau04)
+-Marcos Cámara Vicente
