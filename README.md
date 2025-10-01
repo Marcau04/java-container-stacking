@@ -24,30 +24,24 @@ El objetivo es encontrar la **mayor cantidad de contenedores apilables** cumplie
 ## 🚀 Compilación y ejecución
 
 ### Compilación
-
+´´´bash
 javac ContainerStacking.java
-
+´´´
 ### Ejecución
 
 ```bash
-java ContainerStacking <fichero_entrada>
+java ContainerStacking 
 ```
-<fichero_entrada> → Archivo .txt con la definición de los contenedores.
-
-Ejemplo:
-```bash
-java OrdenacionContenedores contenedores.txt
-```
-
 ---
 
 ## 📂 Formato del archivo de entrada
 
-- El archivo debe tener el siguiente formato:
+- Para que el programa funcione es necesario que el archivo de entrada se encuentre en el mismo directorio que **el archivo .java**.
+- El archivo debe llamarse **entrada.txt** y tener el siguiente formato:
 
-  - La primera línea contiene el número total de contenedores.
+  - La primera línea contiene el **número total de contenedores**.
 
-  - Cada línea siguiente contiene un par peso pesoMax para cada contenedor.
+  - Cada línea siguiente contiene un par **peso pesoMax** para cada contenedor.
 
 - Ejemplo:
 
@@ -73,7 +67,10 @@ java OrdenacionContenedores contenedores.txt
 - Ejemplo de salida:
 
 ```bash
-Número máximo de contenedores apilables: 4
+Numero de contenedores: 3
+Contenedor 3
+Contenedor 4
+Contenedor 7
 ```
 
 ---
