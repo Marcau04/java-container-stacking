@@ -62,7 +62,7 @@ java ContainerStacking
 
   - El número máximo de contenedores que se pueden apilar.
 
-  - La configuración óptima de apilamiento que cumple las restricciones.
+  - Los contenedores que forman parte de la configuración óptima de apilamiento que cumple las restricciones.
 
 - Ejemplo de salida:
 
